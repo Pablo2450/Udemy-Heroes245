@@ -22,6 +22,6 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
   * subitem
   * subitem
 
-![Batman](https://fondosmil.com/fondo/7309.jpg)
+![Batman](link_imagen)
 
-[Ir a la imagen] (https://fondosmil.com/fondo/7309.jpg)
+[Ir a la imagen] (link_imagen)
